@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int a[20];
-int n,val,i,pos;
+int n,i;
 /*Function Prototype*/
 void create();
 void display();
